@@ -8,9 +8,6 @@ This is a project I built to practice using two APIs together. The page fills a 
 
 ## Screenshot
 
-<!-- Replace the file name below with your own screenshot. Put the picture in the screenshots folder.
-     Mac tip: Cmd + Shift + 4, then drag a box around the app. -->
-
 ![A breed card with a photo and facts](assets/images/doggy.png)
 
 ## Features
@@ -60,6 +57,8 @@ This app doesn't need a server. It needs a free TheDogAPI key.
 - How to build a dropdown from data with JavaScript
 - How to show and hide a card with a CSS class
 - Why API keys shouldn't be put in code that goes on GitHub
+
+VIEW APP HERE: https://the-vet.onrender.com/
 
 ## Author
 
