@@ -58,7 +58,7 @@ This app doesn't need a server. It needs a free TheDogAPI key.
 - How to show and hide a card with a CSS class
 - Why API keys shouldn't be put in code that goes on GitHub
 
-VIEW APP HERE: https://the-vet.onrender.com/
+VIEW APP HERE: https://the-vet.onrender.com
 
 ## Author
 
